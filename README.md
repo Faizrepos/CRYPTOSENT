@@ -29,11 +29,8 @@ CRYPTOSENT is a custom-built NLP pipeline for sentiment and emotion analysis, de
 Cryptosent/
 ├── main_project.py                # Main Python file for the project
 ├── datasets/
-│   ├── raw dataset/
-│   │   └── dataset.zip           # Zipped dataset file
-│   └── extracted dataset/
-│       └── dataset.csv           # Extracted (unzipped) dataset file
-├── essential libs/
-│   └── NRC-Emotion-Lexicon/
-│       ├── NRC-Emotion-Lexicon-Wordlevel-v0.92.txt  # Example essential file
-│       └── ...                                       # Other necessary resources
+│   └── dataset.csv       # dataset file
+└── essential libs/
+    └── NRC-Emotion-Lexicon/
+       ├── NRC-Emotion-Lexicon-Wordlevel-v0.92.txt  # Example essential file
+       └── ...                                       # Other necessary resources
