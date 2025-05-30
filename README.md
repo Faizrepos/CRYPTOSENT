@@ -128,7 +128,7 @@ This ensures the project works across different operating systems and folder str
 
 ## 💡 Author Note
 
-This project was created by **Faiz** - Undergraduate C.A. student and aspiring developer with skills in NLP, sentiment analysis, and full-cycle project implementation.
+This project was created by **Faiz** - Undergraduate C.S. student and aspiring developer with skills in NLP, sentiment analysis, and full-cycle project implementation.
 
 > I personally studied and created this project. I would also encourage others who are interested. I have given recommendations to help you run this project on your devices. Thank you!
 
