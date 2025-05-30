@@ -1,4 +1,4 @@
-# ✨ CRYPTOSENT: Sentiment & Emotion Analysis Project
+# CRYPTOSENT: Sentiment & Emotion Analysis Project
 
 This project, titled **CRYPTOSENT**, is a complete sentiment analysis and emotion detection pipeline built using Python. It processes and classifies any data to identify **positive**, **negative**, or **neutral** sentiments and detect associated **emotions** using the NRC Emotion Lexicon.
 
